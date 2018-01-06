@@ -10,7 +10,7 @@ mean <- mean(numbers)
 median <- median(numbers)
 
 #Mode function taken from https://stackoverflow.com/questions/2547402/is-there-a-built-in-function-for-finding-the-mode
-#returns a table of the numbers that occur the most (ie. in 2 2 4 3 3 it returns 2 and 3)
+#returns a table of the numbers that occur the most (ie. in 2 2 4 3 3 it returns 2 and 3). The description of what each line does is by me.
 Mode = function(x){
   #unique takes in a vector and returns a vector without repeated values
   ux <- unique(x)
