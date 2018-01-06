@@ -1,1 +1,1 @@
-# Statistics
+# Statistical programming using R Studio
